@@ -10,8 +10,8 @@ Testing mapboxgl-jupyter by creating a map of health sites in Colombia.
 ## Python environment
 
 ```sh
-conda env create -n mapboxgl-in-jupyter -f environment.yml
-source activate mapboxgl-in-jupyter
+conda env create -n mapboxgl -f environment.yml
+source activate mapboxgl
 ```
 
 
