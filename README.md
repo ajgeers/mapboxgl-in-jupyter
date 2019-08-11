@@ -2,7 +2,7 @@
 
 Author: Arjan Geers (ajgeers@gmail.com)
 
-Testing mapboxgl-jupyter by creating a map of health sites in Colombia.
+Testing [mapboxgl-jupyter](https://github.com/mapbox/mapboxgl-jupyter) by creating a map of health sites in Colombia.
 
 <img src="screenshots/heatmap.png" width="600" />
 
@@ -11,7 +11,7 @@ Testing mapboxgl-jupyter by creating a map of health sites in Colombia.
 
 ```sh
 conda env create -n mapboxgl -f environment.yml
-source activate mapboxgl
+conda activate mapboxgl
 ```
 
 
