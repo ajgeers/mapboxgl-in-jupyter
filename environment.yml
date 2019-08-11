@@ -6,6 +6,7 @@ dependencies:
 - geopandas=0.5.*
 - jupyter=1.0.*
 - pip=19.2.*
+- python=3.7.*
 - requests=2.22.*
 - pip:
   - mapboxgl==0.10.*
